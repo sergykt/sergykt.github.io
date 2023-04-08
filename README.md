@@ -1,2 +1,4 @@
 # sergykt.github.io
-Just a test site
+just a test site English-Russian dictionary.
+
+Maybe I will add a database soon.
